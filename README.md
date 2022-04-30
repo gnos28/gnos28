@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julien VIGNERON</h1>
-<h3 align="center">A passionate fullstack developer from France</h3>
+<h3 align="center">react / nodeJS fullstack & Google Apps Script developer from France</h3>
 
 - 👨‍💻 All of my projects are available at [dev4.me](dev4.me)
 
