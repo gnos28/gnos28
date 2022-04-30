@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/julienvigneron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julienvigneron" height="30" width="40" /></a> <a href="https://www.malt.fr/profile/julienvigneron" target="blank"><img align="center" src="https://user-images.githubusercontent.com/23195290/88169086-bcaf2680-cc1b-11ea-8b41-d115efe212a5.png" alt="julienvigneron" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/julienvigneron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julienvigneron" height="30" width="40" /></a> <a href="https://www.malt.fr/profile/julienvigneron" target="blank"><img align="center" src="https://monteirodigital.fr/wp-content/uploads/2021/04/malt_picto_color.png" alt="julienvigneron" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
