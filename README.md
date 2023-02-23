@@ -2,10 +2,7 @@
 <h1 align="center">Julien VIGNERON</h1>
 
 
-| ## 📀 Dev typescript next express & google script  |  zzz |
-| zz  |  zzz |
-| zz  |  zzz |
-|---|---|
+## 📀 Dev typescript next express & google script
 
 - 👨‍💻 All of my projects are available at [dev4.me](https://dev4.me/)
 - 📫 Reach me at **gnos28@gmail.com**
