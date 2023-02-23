@@ -12,7 +12,7 @@
 
 # 💬 Connect with me:
 <p align="center">
-<a href="https://linkedin.com/in/julienvigneron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julienvigneron" height="30" width="40" /></a> <a href="https://www.malt.fr/profile/julienvigneron" target="blank"><img align="center" src="https://monteirodigital.fr/wp-content/uploads/2021/04/malt_picto_color.png" alt="julienvigneron" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/julienvigneron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julienvigneron" height="60" width="80" /></a> <a href="https://www.malt.fr/profile/julienvigneron" target="blank"><img align="center" src="https://monteirodigital.fr/wp-content/uploads/2021/04/malt_picto_color.png" alt="julienvigneron" height="60" width="60" /></a>
 </p>
 
 # 🚀 Beat me there!
