@@ -1,19 +1,16 @@
 # 💫 About Me:
 <h1 align="center">Julien VIGNERON</h1>
-<table>
-<tr>
-<td>
+
 <h3>📀 Dev typescript next express & google script</h3>
 
 - 👨‍💻 All of my projects are available at [dev4.me](https://dev4.me/)
 
 - 📫 Reach me at **gnos28@gmail.com**
-</td>
-<td>
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gnos28&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-</td>
-</tr>
-</table>
+
+
 
 # 💬 Connect with me:
 <p align="center">
