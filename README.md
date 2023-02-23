@@ -3,10 +3,11 @@
 
 <h3>📀 Dev typescript next express & google script</h3>
 
+<span>
 - 👨‍💻 All of my projects are available at [dev4.me](https://dev4.me/)
-
+<br>
 - 📫 Reach me at **gnos28@gmail.com**
-
+</span>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gnos28&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
